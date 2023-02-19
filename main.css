@@ -1,0 +1,59 @@
+body{
+    font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;;
+}
+.bcg{
+    position: absolute;
+    top: 250px;
+    color: white;
+    text-align: center;
+    margin-left: 300px;
+}
+.bkg{
+    position: absolute;
+    top: 380px;
+   
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 420px;
+}
+.bg{
+    position: absolute;
+    color: white;
+    top: 450px;
+    text-align: center;
+    margin-left: 470px;
+}
+.ctn1{
+   background-color: #ffff;
+}
+.ctn2{
+   background-color: #ffff;
+   position: relative;
+   
+}
+.ctn3{
+   background-color: #f5f7fa;
+}
+.ctn4{
+    background-color: #ffff;
+}
+.ctn5{
+   background-color: #f5f7fa;
+   padding: -10px;
+   margin-left: 100px;
+ }  
+.ctn6{
+
+background-color: #0153a3;
+padding: 30px;
+font-family:PayPalSansSmall-Regular,Helvetica Neue,Arial,sans-serif;
+font-weight: 100;
+font-size: 18px;
+line-height: 1.6;
+margin: 50px;
+color: #ffff;
+}
+.ctn7{
+    background-color: #ffff;
+    padding: 10px;
+}
